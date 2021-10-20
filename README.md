@@ -3,7 +3,7 @@
 - 🔭 Estou trabalhando em um PDV
 - 🌱 Estudando Java
 - 📫 twitter: @denissz / insta: denissz
-- 😄 Pronouns: mn levis
+- 😄 Pronouns: warriors/nets
 
 <div align="center">
   <a href="https://github.com/odenissz">
