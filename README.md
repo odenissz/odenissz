@@ -26,6 +26,6 @@
  <a href="https://discord.gg/WJ5BRxpN8f" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "denisfilho301105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/odenissz/odenissz/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
