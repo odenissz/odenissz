@@ -1,7 +1,6 @@
 ### Salve meu cria!
 
-- 🔭 Estou trabalhando em um PDV
-- 🌱 Estudando Java
+- 🌱 Estudando WEB
 - 📫 twitter: @denissz / insta: denissz
 - 😄 Pronouns: warriors/nets
 
