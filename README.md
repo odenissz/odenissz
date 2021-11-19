@@ -1,7 +1,7 @@
 ### Salve meu cria!
 
 - 🌱 Estudando WEB
-- 📫 twitter: @denissz / insta: denissz
+- 📫 twitter: @odenissz / insta: odenissz
 - 😄 Pronouns: warriors/nets
 
 <div align="center">
