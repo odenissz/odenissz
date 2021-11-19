@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/odenissz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=odenissz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odenissz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=odenissz&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odenissz&layout=compact&langs_count=7&theme=aura"/>
 </div>
 </div>
 <div style="display: inline_block"><br>
@@ -15,7 +15,7 @@
   <img align="center" alt="Denis-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Denis-Fi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Denis-Op" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opera/opera-original.svg">
-  <img align="center" alt="Denis-tt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
+  <img align="center" alt="Denis-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  
   <img align="right" alt="Denis-Sc" height="150" style="border-radius:50px;" 
        src=https://sportbuzz.uol.com.br/media/_versions/messi-decola-para-paris_widelg.png>
