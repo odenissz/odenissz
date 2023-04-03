@@ -2,7 +2,7 @@
 
 - 🌱 Estudando WEB
 - 📫 twitter: @odenissz / insta: odenissz
-- 😄 Pronouns: warriors/nets
+- 😄 Pronouns: warriors/hawks
 
 <div align="center">
   <a href="https://github.com/odenissz">
